@@ -1,0 +1,1 @@
+# laracontent_pages
